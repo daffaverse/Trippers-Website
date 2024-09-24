@@ -5,4 +5,4 @@ Repository ini merupakan final project/tugas akhir dari course di Dicoding pada 
 Website ini juga sudah menerapkan HTML Semantic Element, seperti: header, nav, main, article, section, aside, figure, figcaption, dan footer. HTML Semantic Element ini berfungsi untuk mengetahui secara jelas arti dan makna dari sebuah elemen, sehingga dapat mempermudah browser dan developer (dalam mempelajari source code).
 
 Website dibuat ini menggunakan HTML dan CSS, dengan mengusung tema website adventure, website penjualan paket wisata dengan bernama Trippers. berikut tampilannya :
-
+![Tampilan Website](https://github.com/daffaverse/Trippers-Website/blob/main/assets/images/screenshoot.jpeg)
